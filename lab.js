@@ -30,7 +30,7 @@ var brittanisBirthYear = 1986
 
 //CODE HERE
 if (amysAge < brittanisAge){
-  console.log('Amy is older.')
+  console.log('Brittani is older.')
 }
 else if(amysAge > brittanisAge){
   console.log('Amy is older.')
@@ -73,8 +73,6 @@ if (temperature >= 80 && rain){
 }else if(temperature >= 95 && temperature < 115 && !rain){
   console.log('Stay inside!')
 }
-
-
 
 ////////// PROBLEM 5 //////////
 
